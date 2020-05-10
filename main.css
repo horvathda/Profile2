@@ -233,7 +233,7 @@ a{
 }
 /*mobile display*/
 
-@media screen and (max-width: 700px){ 
+@media screen and (max-width: 460px){ 
 
   /*secont section*/
 #name{
