@@ -233,7 +233,7 @@ a{
 }
 /*mobile display*/
 
-@media screen and (max-width: 500px){ 
+@media screen and (max-width: 700px){ 
 
   /*secont section*/
 #name{
@@ -245,8 +245,8 @@ a{
  font-family: 'Roboto', sans-serif;*/
 }
 #info{
-  top:27.5vh;
-  font-size:5vh;
+  top:29vh;
+  font-size:4.3vh;
   left:3vw;
   padding:2.5%
   
