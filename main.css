@@ -200,10 +200,10 @@ li{
       height:63%;
     }
     #name{
-      top:10vh;
-      width:75%;
-      font-size:11rem;
+      width:70%;
+      font-size:8.8rem;
       left:1vw;
+      top:2vh;
     }
     #pic-cont{
       width:25%;
@@ -217,13 +217,22 @@ li{
     }
     
     #info{
-      top:40vh;
-      left:30vw;
+      top:50vh;
+      left:20vw;
       font-size:3.5rem;
     }
    
     
   }
+@media (min-width: 1200px) {
+  
+  #name{
+    top:0vh;
+    font-size:9.5rem;  }
+  #info{
+    top:40vh;
+  }
+}
 
 
 /*third section*/
